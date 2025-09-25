@@ -3,18 +3,45 @@ import streamlit as st
 from recommend import df, recommend_movies
 from omdb_utils import get_movie_details
 
+# ----------------------------
 # Load config
+# ----------------------------
 with open("config.json") as f:
     config = json.load(f)
 
 OMDB_API_KEY = config["OMDB_API_KEY"]
 
+# ----------------------------
+# Page config
+# ----------------------------
 st.set_page_config(
     page_title="Movie Recommender",
     page_icon="🎬",
     layout="centered"
 )
 
+# ----------------------------
+# Sidebar
+# ----------------------------
+st.sidebar.title("🎬 About this App")
+st.sidebar.info(
+    """
+This Movie Recommender app suggests similar movies based on your selection.
+It uses **TF-IDF vectorization** and **cosine similarity** for recommendations.
+"""
+)
+
+st.sidebar.title("👤 About Me")
+st.sidebar.markdown("""
+**Mirza Yasir Abdullah Baig**  
+- [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
+- [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+- [Kaggle](https://www.kaggle.com/code/mirzayasirabdullah07)  
+""")
+
+# ----------------------------
+# Main content
+# ----------------------------
 st.title("🎬 Movie Recommender")
 
 # Movie selection
