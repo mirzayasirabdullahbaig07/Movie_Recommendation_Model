@@ -1,0 +1,7 @@
+streamlit
+requests
+joblib
+gdown
+pandas
+scikit-learn
+nltk
