@@ -1,0 +1,37 @@
+[2025-09-25 01:25:58,089] INFO - 🔁 Loading data...
+[2025-09-25 01:25:59,745] INFO - ✅ Data loaded successfully.
+[2025-09-25 01:26:05,871] INFO - 🎬 Recommending movies for: '10 Things I Hate About You'
+[2025-09-25 01:26:05,885] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:11:19,831] INFO - 🔁 Loading data...
+[2025-09-26 00:11:21,727] INFO - ✅ Data loaded successfully.
+[2025-09-26 00:11:26,473] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-26 00:11:26,493] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:15:13,969] INFO - 🔁 Loading data...
+[2025-09-26 00:15:15,421] INFO - ✅ Data loaded successfully.
+[2025-09-26 00:15:19,962] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-26 00:15:22,419] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:15:55,668] INFO - 🎬 Recommending movies for: '102 Dalmatians'
+[2025-09-26 00:15:55,682] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:16:22,407] INFO - 🎬 Recommending movies for: 'The Kingdom'
+[2025-09-26 00:16:22,420] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:27:45,439] INFO - 🔁 Loading data...
+[2025-09-26 00:27:48,780] INFO - ✅ Data loaded successfully.
+[2025-09-26 00:27:54,978] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-26 00:27:55,020] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:42:48,306] INFO - ✅ cosine_sim.pkl already exists locally.
+[2025-09-26 00:42:48,308] INFO - 🔁 Loading data...
+[2025-09-26 00:42:50,757] INFO - ✅ Data loaded successfully.
+[2025-09-26 00:42:53,640] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-26 00:42:53,760] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:51:21,608] INFO - ✅ cosine_sim.pkl already exists locally.
+[2025-09-26 00:51:21,610] INFO - 🔁 Loading data...
+[2025-09-26 00:51:24,812] INFO - ✅ Data loaded successfully.
+[2025-09-26 00:51:26,969] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-26 00:51:27,011] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:51:34,353] INFO - 🎬 Recommending movies for: '102 Dalmatians'
+[2025-09-26 00:51:34,365] INFO - ✅ Top 5 recommendations ready.
+[2025-09-26 00:56:49,041] INFO - ✅ cosine_sim.pkl already exists locally.
+[2025-09-26 00:56:49,042] INFO - 🔁 Loading data...
+[2025-09-26 00:56:50,656] INFO - ✅ Data loaded successfully.
+[2025-09-26 00:56:52,689] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-09-26 00:56:52,740] INFO - ✅ Top 5 recommendations ready.
