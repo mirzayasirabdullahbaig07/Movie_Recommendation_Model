@@ -7,6 +7,9 @@ An **AI-powered web application** built with **Streamlit** that recommends movie
 ## 🚀 Demo  
 🔗 [Live App on Streamlit](https://movierecommendationmodel07.streamlit.app/)
 
+## 🚀 Video Demo  
+[https://github.com/user-attachments/assets/1ccdb520-6f16-45f7-9359-b1e62179c178](https://github.com/user-attachments/assets/1ccdb520-6f16-45f7-9359-b1e62179c178)
+
 ---
 
 ## 📌 Features  
